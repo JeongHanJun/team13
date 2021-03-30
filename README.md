@@ -16,7 +16,7 @@
 
 김진영(gimquokka)
 
-정한준(JeongHanJun)
+정한준(JeongHanJun) / **Back-end**
 
 이창규(leezzx)
 
